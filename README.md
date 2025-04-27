@@ -1,0 +1,1 @@
+# plugins-news-magazine-x-core
