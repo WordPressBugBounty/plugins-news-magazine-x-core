@@ -1,8 +1,8 @@
 === News Magazine X Core ===
 Contributors: wproyal
 Tags: demo import
-Tested up to: 6.7
-Stable tag: 1.0.9
+Tested up to: 7.0
+Stable tag: 1.0.10
 License: GPLv2 or later
 
 One Click Demo Content Import.

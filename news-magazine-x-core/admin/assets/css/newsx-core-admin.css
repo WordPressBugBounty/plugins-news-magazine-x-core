@@ -42,6 +42,7 @@
    font-size: 14px;
    width: 14px;
    height: 14px;
+   line-height: 1;
  }
 
  .newsx-starter-templates {
@@ -215,10 +216,11 @@
    align-items: center;
 }
 
-.newsx-import-popup footer button .dashicons {
+.newsx-import-popup footer button.button-primary .dashicons {
    font-size: 13px;
    width: 13px;
    height: 13px;
+   line-height: 1;
 }
 
 .newsx-import-popup .content ul li {

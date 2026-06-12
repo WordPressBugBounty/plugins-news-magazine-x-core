@@ -6,7 +6,7 @@ Plugin URI: http://wordpress.org/plugins/news-magazine-x-core/
 Description: One Click Demo Content Import.
 Author: WP Royal
 Author URI: https://wp-royal-themes.com/
-Version: 1.0.9
+Version: 1.0.10
 License: GPLv2 or later
 Text Domain: news-magazine-x-core
 */
@@ -21,7 +21,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Start at version 1.0.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define( 'NEWSX_CORE_VERSION', '1.0.9' );
+define( 'NEWSX_CORE_VERSION', '1.0.10' );
 define( 'NEWSX_CORE__FILE__', __FILE__ );
 define( 'NEWSX_CORE_PLUGIN_BASE', plugin_basename( NEWSX_CORE__FILE__ ) );
 define( 'NEWSX_CORE_PATH', plugin_dir_path( NEWSX_CORE__FILE__ ) );
